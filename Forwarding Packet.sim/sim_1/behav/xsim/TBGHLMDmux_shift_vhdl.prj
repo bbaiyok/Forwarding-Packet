@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Forwarding Packet.srcs/sources_1/new/Check_Length.vhd" \
+"../../../../Forwarding Packet.srcs/sources_1/new/DeMUX.vhd" \
+"../../../../Forwarding Packet.srcs/sources_1/new/DelayEthFrame.vhd" \
+"../../../../Forwarding Packet.srcs/sources_1/new/MacTable.vhd" \
+"../../../../Forwarding Packet.srcs/sources_1/new/Read_Header.vhd" \
+"../../../../Forwarding Packet.srcs/sources_1/new/TopGHLMDmux_shift.vhd" \
+"../../../../Forwarding Packet.srcs/sources_1/new/datagen.vhd" \
+"../../../../Forwarding Packet.srcs/sim_1/new/TBGHLMDmux_shift.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TBdatagen_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TBdatagen" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="10.000001 us"></ZoomEndTime>
+      <Cursor1Time time="5.471289 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="396"></NameColumnWidth>
+      <ValueColumnWidth column_width="217"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/TBdatagen/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBdatagen/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBdatagen/sw_start" type="logic">
+      <obj_property name="ElementShortName">sw_start</obj_property>
+      <obj_property name="ObjectShortName">sw_start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBdatagen/eth_data" type="array">
+      <obj_property name="ElementShortName">eth_data[575:0]</obj_property>
+      <obj_property name="ObjectShortName">eth_data[575:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBdatagen/tClk" type="other">
+      <obj_property name="ElementShortName">tClk</obj_property>
+      <obj_property name="ObjectShortName">tClk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBdatagen/uut/state" type="other">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBdatagen/o_MACDest" type="array">
+      <obj_property name="ElementShortName">o_MACDest[47:0]</obj_property>
+      <obj_property name="ObjectShortName">o_MACDest[47:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBdatagen/o_MACDest" type="array">
+      <obj_property name="ElementShortName">o_MACDest[47:0]</obj_property>
+      <obj_property name="ObjectShortName">o_MACDest[47:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBdatagen/o_length" type="array">
+      <obj_property name="ElementShortName">o_length[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_length[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBdatagen/o_MACDest" type="array">
+      <obj_property name="ElementShortName">o_MACDest[47:0]</obj_property>
+      <obj_property name="ObjectShortName">o_MACDest[47:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBdatagen/o_MACDest" type="array">
+      <obj_property name="ElementShortName">o_MACDest[47:0]</obj_property>
+      <obj_property name="ObjectShortName">o_MACDest[47:0]</obj_property>
+   </wvobject>
+</wave_config>

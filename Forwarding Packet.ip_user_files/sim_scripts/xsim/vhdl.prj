@@ -1,0 +1,15 @@
+vhdl xpm  \
+"C:/Xilinx/Vivado/2024.2/data/ip/xpm/xpm_VCOMP.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../Forwarding Packet.gen/sources_1/ip/fifo_generator_0/fifo_generator_0_sim_netlist.vhdl" \
+"../../../Forwarding Packet.srcs/sources_1/new/Check_Length.vhd" \
+"../../../Forwarding Packet.srcs/sources_1/new/DeMUX.vhd" \
+"../../../Forwarding Packet.srcs/sources_1/new/MacTable.vhd" \
+"../../../Forwarding Packet.srcs/sources_1/new/Read_Header.vhd" \
+"../../../Forwarding Packet.srcs/sources_1/new/TopGenFIFOHeadMACLengthDmux.vhd" \
+"../../../Forwarding Packet.srcs/sources_1/new/datagen.vhd" \
+"../../../Forwarding Packet.srcs/sources_1/new/TBGenFIFOHeadMACLengthDmux.vhd" \
+
+# Do not sort compile order
+nosort

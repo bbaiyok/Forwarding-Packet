@@ -1,0 +1,5 @@
+set_property PACKAGE_PIN U18 [get_ports clk]
+set_property PACKAGE_PIN T17 [get_ports rst]
+set_property PACKAGE_PIN R17 [get_ports sw_start]
+set_property DRIVE 12 [get_ports o_data]
+set_property PACKAGE_PIN F17 [get_ports o_data]

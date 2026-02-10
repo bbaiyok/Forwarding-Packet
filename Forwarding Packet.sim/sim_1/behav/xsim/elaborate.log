@@ -1,0 +1,25 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot TBGHLMDmux_shift_behav xil_defaultlib.TBGHLMDmux_shift -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.datagen [\datagen(macdest="00000000110111...]
+Compiling architecture behavioral of entity xil_defaultlib.Read_Header [read_header_default]
+Compiling architecture behavioral of entity xil_defaultlib.Check_Length [check_length_default]
+Compiling architecture behavioral of entity xil_defaultlib.MacTable [mactable_default]
+Compiling architecture behavioral of entity xil_defaultlib.DeMUX [demux_default]
+Compiling architecture behavioral of entity xil_defaultlib.DelayEthFrame [delayethframe_default]
+Compiling architecture behavioral of entity xil_defaultlib.TopGHLMDmux_shift [topghlmdmux_shift_default]
+Compiling architecture behavioral of entity xil_defaultlib.tbghlmdmux_shift
+Built simulation snapshot TBGHLMDmux_shift_behav

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TBGenRead_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TBGenRead" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="2,069.777 ns"></ZoomStartTime>
+      <ZoomEndTime time="2,097.228 ns"></ZoomEndTime>
+      <Cursor1Time time="2,083.018 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="163"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/TBGenRead/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBGenRead/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBGenRead/sw_start" type="logic">
+      <obj_property name="ElementShortName">sw_start</obj_property>
+      <obj_property name="ObjectShortName">sw_start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBGenRead/i_EndEthFr" type="logic">
+      <obj_property name="ElementShortName">i_EndEthFr</obj_property>
+      <obj_property name="ObjectShortName">i_EndEthFr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBGenRead/o_Endlength" type="logic">
+      <obj_property name="ElementShortName">o_Endlength</obj_property>
+      <obj_property name="ObjectShortName">o_Endlength</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBGenRead/u2/u1/o_data" type="logic">
+      <obj_property name="ElementShortName">o_data</obj_property>
+      <obj_property name="ObjectShortName">o_data</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBGenRead/u2/u2/state" type="other">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBGenRead/o_length" type="array">
+      <obj_property name="ElementShortName">o_length[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_length[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBGenRead/o_MACDest" type="array">
+      <obj_property name="ElementShortName">o_MACDest[47:0]</obj_property>
+      <obj_property name="ObjectShortName">o_MACDest[47:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TBGenRead/u2/u1/rData_eth_fr" type="array">
+      <obj_property name="ElementShortName">rData_eth_fr[575:0]</obj_property>
+      <obj_property name="ObjectShortName">rData_eth_fr[575:0]</obj_property>
+   </wvobject>
+</wave_config>
