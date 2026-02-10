@@ -2,5 +2,4 @@
 
 This is a block diagram for this project that simulates packet forwarding in an unmanaged network switch based on the MAC Address Header in ethernet packet.
 
-Pubodin Narat
-Thanakit Theephukhiew
+Pubodin Narat / Thanakit Theephukhiew
